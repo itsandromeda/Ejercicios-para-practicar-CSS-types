@@ -1,0 +1,25 @@
+* {
+    font-family: sans-serif;
+}
+
+.yellow-block {
+    background-color: #f9a91a;
+    color: #FFF;
+}
+
+.border-block {
+    background-color: #f1f1f1;
+    color: #333;
+    box-sizing: border-box;
+    border: 1px solid #8c8a8a;
+}
+
+.yellow-block,
+.border-block {
+    height: 50px;
+    padding: 5px;
+}
+
+.caps {
+    text-transform: uppercase;
+}
