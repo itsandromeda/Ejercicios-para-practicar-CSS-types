@@ -2,22 +2,27 @@
     font-family: sans-serif;
 }
 
+.block-content {
+    width: 600px;
+    margin: 50px auto;
+}
+
 .yellow-block {
     background-color: #f9a91a;
     color: #FFF;
 }
 
-.border-block {
+.mid-block {
     background-color: #f1f1f1;
     color: #333;
-    box-sizing: border-box;
-    border: 1px solid #8c8a8a;
 }
 
 .yellow-block,
-.border-block {
+.border-block,
+.mid-block {
     height: 50px;
     padding: 5px;
+    margin-bottom: 20px;
 }
 
 .caps {
