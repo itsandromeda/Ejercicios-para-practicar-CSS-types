@@ -3,7 +3,7 @@
 }
 
 .block-content {
-    width: 304px;
+    width: 320px;
     margin: 50px auto;
 }
 
@@ -21,7 +21,6 @@
 .border-block,
 .mid-block {
     display: inline;
-    height: 50px;
     margin-right: 10px;
     padding: 5px;
 }
