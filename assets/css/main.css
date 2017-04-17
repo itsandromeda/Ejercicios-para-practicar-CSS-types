@@ -3,30 +3,28 @@
 }
 
 .block-content {
-    width: 540px;
-    margin: 50px auto;
+    width: 310px;
+    margin: 80px auto;
 }
 
-.yellow-block {
-    background-color: #f9a91a;
-    color: #FFF;
+.wrapper {
+    box-sizing: border-box;
+    background-color: #f1f1f1;
+    border: 1px solid #333;
+    padding: 10px;
+    margin: 10px 0;
 }
 
-.mid-block {
+.gray-block {
     background-color: #f1f1f1;
     color: #333;
-}
-
-.yellow-block,
-.border-block,
-.mid-block {
+    border: 1px solid #333;
     display: inline-block;
-    height: 50px;
-    width: 155px;
-    margin-right: 10px;
-    padding: 5px;
+    margin: 5px;
+    height: 80px;
+    width: 80px;
 }
 
-.caps {
-    text-transform: uppercase;
+.no-margin-left {
+    margin-left: 0;
 }
